@@ -25,13 +25,8 @@ A Software Engineering student focusing on modern web development, cross-platfor
 
 ---
 
-### Featured Projects
-- **[ParentPal](https://github.com/Chriswk21/ParentPal)** - A digital parenting platform featuring Content Learning, Community discussion, and an interactive Chatbot.
-- **[TutorYuk](https://github.com/Chriswk21/TutorYuk)** - A web and mobile platform designed for finding tutors and managing learning sessions.
-- **[LaundryDeploy](https://github.com/Chriswk21/LaundryDeploy)** - A laundry cashier and Point of Sale (POS) application.
-- **[GymBrok](https://github.com/Chriswk21/GymBrok)** - A fitness companion application for tracking workouts and training activities.
-- **[ProofIT](https://github.com/Chriswk21/ProofIT)** - A structured enterprise project management platform designed to help companies organize workflows,
-- **[GenshinImport](https://github.com/Chriswk21/GenshinImport)** - A simple search application centered around Genshin Impact items.
+### My Portfolio
+  https://portfolio-chriswk.vercel.app/
 ---
 
 ### Connect with Me
