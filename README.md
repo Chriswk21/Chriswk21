@@ -27,12 +27,11 @@ A Software Engineering student focusing on modern web development, cross-platfor
 
 ### Featured Projects
 - **[ParentPal](https://github.com/Chriswk21/ParentPal)** - A digital parenting platform featuring Content Learning, Community discussion, and an interactive Chatbot.
-- **[TutorYuk](https://github.com/Chriswk21/TutorYuk)** - Platform web/aplikasi untuk pencarian dan manajemen pembelajaran bersama tutor.
-- **[LaundryDeploy](https://github.com/Chriswk21/LaundryDeploy)** - Project manajemen dan deployment sistem aplikasi laundry.
-- **[GymBrok](https://github.com/Chriswk21/GymBrok)** - Aplikasi pendukung aktivitas kebugaran, tracking latihan, atau fasilitas gym.
-- **[ProofIT](https://github.com/Chriswk21/ProofIT)** - Project software engineering berbasis validasi, pembuktian sistem, atau integrasi data.
-- **[GenshinImport](https://github.com/Chriswk21/GenshinImport)** - Tool/aplikasi pembantu integrasi data, tracking, atau analisis komponen game Genshin Impact.
-
+- **[TutorYuk](https://github.com/Chriswk21/TutorYuk)** - A web and mobile platform designed for finding tutors and managing learning sessions.
+- **[LaundryDeploy](https://github.com/Chriswk21/LaundryDeploy)** - A laundry cashier and Point of Sale (POS) application.
+- **[GymBrok](https://github.com/Chriswk21/GymBrok)** - A fitness companion application for tracking workouts and training activities.
+- **[ProofIT](https://github.com/Chriswk21/ProofIT)** - A structured enterprise project management platform designed to help companies organize workflows,
+- **[GenshinImport](https://github.com/Chriswk21/GenshinImport)** - A simple search application centered around Genshin Impact items.
 ---
 
 ### Connect with Me
